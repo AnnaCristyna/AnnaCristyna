@@ -6,11 +6,11 @@ I am actively involved in web application development, utilizing my skills in Ja
 
 Strengths: Dedication, curiosity, teamwork, patience, and ease of learning.
 
-🌱 Currently, I'm learning about ReactJs.
-🔭 Areas of interest: Web/Mobile technologies, AI applications, Flutter Applications, Data Science.
-👯 I'm open to collaborating on projects that involve JS, Python, or Flutter.
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/annabarros/)
-⚡ Fun fact: During my leisure time, I engage in a diverse range of activities and interests, including hitting the gym, taking care of my dogs, roller skating, indulging in acrylic painting, and tending to plants.
+- 🌱 Currently, I'm learning about ReactJs.
+- 🔭 Areas of interest: Web/Mobile technologies, AI applications, Flutter Applications, Data Science.
+- 👯 I'm open to collaborating on projects that involve JS, Python, or Flutter.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/annabarros/)
+- ⚡ Fun fact: During my leisure time, I engage in a diverse range of activities and interests, including hitting the gym, taking care of my dogs, roller skating, indulging in acrylic painting, and tending to plants.
 
 <!--
 **AnnaCristyna/AnnaCristyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
