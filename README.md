@@ -9,7 +9,7 @@ Strengths: Dedication, curiosity, teamwork, patience, and ease of learning.
 - 🌱 I’m currently learning about ReactJs.
 - 🔭 Areas of interest: Web/Mobile technologies, IA aplications, Flutter Applications, Data Science
 - 👯 I’m looking to collaborate on project that uses JS, Python or Flutter
-- 📫 Reach me on [Linkedin]([url](https://www.linkedin.com/in/annabarros/)) 
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/annabarros/) 
 - ⚡ Fun fact: In my leisure time, I am drawn to a diverse range of activities and interests. I enjoy hitting the gym, looking after my dogs, roller skating, indulging in acrylic painting and tending to plants.
 
 <!--
